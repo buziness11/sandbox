@@ -12,5 +12,5 @@ public:
 
 private:
     std::istream *input_{nullptr};
-  char delim_;
+    char delim_;
 };
